@@ -56,9 +56,8 @@ const section3Contents = [
     imgSrc: section3_Image2,
     title: "PREMIUM 02",
     text1: `화양신도시 내 초,중,고등학교<br />
-			  	  모두 신설예정 <br />
-			  	  우수한 교육환경`,
-    text2: `500병상 규모 최첨단 종합병원, 홈플러스, 사우나<br />
+			  	  모두 신설예정 `,
+    text2: `500병상 규모 최첨단 종합병원 <br />
 			  	  중심상권 도보 5분거리 등 풍부한 인프라`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
@@ -69,7 +68,7 @@ const section3Contents = [
     text1: `평택안중역 1호선 운행중<br />
 			      2026년KTX(예정) 광역 교통망의 중심`,
     text2: `서평택 IC 차량5분, 서해안고속도로,<br />
-				    평택제천고속도로, 38번국도 매우인접 편리한 교통인프라`,
+				    편리한 교통인프라`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
