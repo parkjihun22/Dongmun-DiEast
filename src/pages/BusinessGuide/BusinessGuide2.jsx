@@ -73,7 +73,7 @@ const BusinessGuide2 = () => {
           name="keywords"
           content="평택화양 동문디이스트"
         />
-        <link rel="canonical" href="https://www.a7lashare.com/BusinessGuide/plan" />
+        <link rel="canonical" href="https://www.verficktescheisse.com/BusinessGuide/plan" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="평택화양 동문디이스트 - 분양일정" />
@@ -84,9 +84,9 @@ const BusinessGuide2 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.a7lashare.com/Main1.png"
+          content="https://www.verficktescheisse.com/Main1.png"
         />
-        <meta property="og:url" content="https://www.a7lashare.com/BusinessGuide/plan" />
+        <meta property="og:url" content="https://www.verficktescheisse.com/BusinessGuide/plan" />
         <meta property="og:site_name" content="평택화양 동문디이스트" />
 
         {/* Twitter 카드 설정 */}
@@ -99,9 +99,9 @@ const BusinessGuide2 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.a7lashare.com/Main1.png"
+          content="https://www.verficktescheisse.com/Main1.png"
         />
-        <meta name="twitter:url" content="https://www.a7lashare.com/BusinessGuide/plan" />
+        <meta name="twitter:url" content="https://www.verficktescheisse.com/BusinessGuide/plan" />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
@@ -113,7 +113,7 @@ const BusinessGuide2 = () => {
 						"description": "첨단 단지 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 			
 						",
-						"url": "https://www.a7lashare.com/BusinessGuide/plan"
+						"url": "https://www.verficktescheisse.com/BusinessGuide/plan"
 					}
 					`}
         </script>

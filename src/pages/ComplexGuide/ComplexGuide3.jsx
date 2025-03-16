@@ -69,7 +69,7 @@ const ComplexGuide3 = () => {
 		  name="keywords"
 		  content="평택화양 동문디이스트"
 		/>
-		<link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/community" />
+		<link rel="canonical" href="https://www.verficktescheisse.com/ComplexGuide/community" />
 
 		{/* Open Graph - 소셜 미디어 공유 최적화 */}
 		<meta
@@ -83,9 +83,9 @@ const ComplexGuide3 = () => {
 		/>
 		<meta
 		  property="og:image"
-		  content="https://www.a7lashare.com/Main1.png"
+		  content="https://www.verficktescheisse.com/Main1.png"
 		/>
-		<meta property="og:url" content="https://www.a7lashare.com/ComplexGuide/community" />
+		<meta property="og:url" content="https://www.verficktescheisse.com/ComplexGuide/community" />
 		<meta property="og:site_name" content="평택화양 동문디이스트" />
 
 		{/* Twitter 카드 설정 */}
@@ -101,9 +101,9 @@ const ComplexGuide3 = () => {
 		/>
 		<meta
 		  name="twitter:image"
-		  content="https://www.a7lashare.com/Main1.png"
+		  content="https://www.verficktescheisse.com/Main1.png"
 		/>
-		<meta name="twitter:url" content="https://www.a7lashare.com/ComplexGuide/community" />
+		<meta name="twitter:url" content="https://www.verficktescheisse.com/ComplexGuide/community" />
 
 		{/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
 		<script type="application/ld+json">
@@ -115,7 +115,7 @@ const ComplexGuide3 = () => {
 									"description": "첨단 단지 푸르지오의 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 											
 									",
-									"url": "https://www.a7lashare.com/ComplexGuide/community"
+									"url": "https://www.verficktescheisse.com/ComplexGuide/community"
 								}
 								`}
 		</script>
