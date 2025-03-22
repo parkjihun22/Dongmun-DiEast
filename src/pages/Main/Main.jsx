@@ -75,7 +75,8 @@ const section3Contents = [
   {
     imgSrc: section3_Image4,
     title: "PREMIUM 04",
-    text1: `화양신도시 종합병원 도보5분 의세권 프리미엄`,
+    text1: `화양신도시 종합병원 도보5분 
+    의세권 프리미엄`,
     text2: `500병상 규모 최첨단 종합병원,<br /> 서부권 중심상업지구 도보5분권내 진입가능`,
     link: "/LocationEnvironment/primium",
     linkText: "더 알아보기 >",
