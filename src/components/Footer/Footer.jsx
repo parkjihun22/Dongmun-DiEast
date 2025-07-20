@@ -11,13 +11,6 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "엘리프 세종 5-1", url: "https://www.sekailog.com" },
-  { name: "대전 쌍용 더플래티넘", url: "https://intercs.co.kr/" },
-  { name: "신확장 로제비앙 메가시티", url: "https://www.leecols.kr" },
-  { name: "원종 휴먼빌 클라츠", url: "https://www.abcya4.com/" },
-  { name: "신검단 로얄파크시티2", url: "https://www.sketchs.co.kr/" },
-  { name: "이천 부발역 에피트", url: "https://www.daincounseling.co.kr" },
-  { name: "평택 브레인시티 수자인", url: "https://www.vaaclubs.com/" },
   { name: "평택화양 동문디이스트", url: "https://www.verficktescheisse.com" },
 
 
