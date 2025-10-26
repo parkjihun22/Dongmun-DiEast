@@ -11,7 +11,7 @@ const InterestPopup = ({ onClose, registration, handleInputChange }) => {
     setIsSubmitting(true);
 
     try {
-      const response = await fetch("https://formspree.io/f/xzzezewk", {
+      const response = await fetch("https://formspree.io/f/mqaprwbb", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
