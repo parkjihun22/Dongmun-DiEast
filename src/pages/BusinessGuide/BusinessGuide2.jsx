@@ -63,23 +63,23 @@ const BusinessGuide2 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>평택화양 동문디이스트 - 분양일정</title>
+        <title>평택화양 신영지웰 - 분양일정</title>
         <meta
           name="description"
-          content="첨단 단지 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+          content="첨단 단지 설계와 다양한 입주 혜택이 돋보이는 지웰건설의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 			"
         />
         <meta
           name="keywords"
-          content="평택화양 동문디이스트"
+          content="평택화양 신영지웰"
         />
         <link rel="canonical" href="https://www.verficktescheisse.com/BusinessGuide/plan" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
-        <meta property="og:title" content="평택화양 동문디이스트 - 분양일정" />
+        <meta property="og:title" content="평택화양 신영지웰 - 분양일정" />
         <meta
           property="og:description"
-          content="첨단 단지 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+          content="첨단 단지 설계와 다양한 입주 혜택이 돋보이는 지웰건설의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 			"
         />
         <meta
@@ -87,14 +87,14 @@ const BusinessGuide2 = () => {
           content="https://www.verficktescheisse.com/Main1.png"
         />
         <meta property="og:url" content="https://www.verficktescheisse.com/BusinessGuide/plan" />
-        <meta property="og:site_name" content="평택화양 동문디이스트" />
+        <meta property="og:site_name" content="평택화양 신영지웰" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="평택화양 동문디이스트 - 분양일정" />
+        <meta name="twitter:title" content="평택화양 신영지웰 - 분양일정" />
         <meta
           name="twitter:description"
-          content="첨단 단지 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+          content="첨단 단지 설계와 다양한 입주 혜택이 돋보이는 지웰건설의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 			"
         />
         <meta
@@ -109,8 +109,8 @@ const BusinessGuide2 = () => {
 					{
 						"@context": "https://schema.org",
 						"@type": "WebPage",
-						"name": "평택화양 동문디이스트 - 분양일정",
-						"description": "첨단 단지 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+						"name": "평택화양 신영지웰 - 분양일정",
+						"description": "첨단 단지 설계와 다양한 입주 혜택이 돋보이는 지웰건설의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 			
 						",
 						"url": "https://www.verficktescheisse.com/BusinessGuide/plan"
@@ -129,7 +129,7 @@ const BusinessGuide2 = () => {
       <MenuBar contents={menuContents} />
 
       <nav className={styles.screenReaderOnly}>
-        <h2>평택화양 동문디이스트 분양일정</h2>
+        <h2>평택화양 신영지웰 분양일정</h2>
         <ul>
           {menuContents.map((menu, index) => (
             <li key={index}>
@@ -140,9 +140,9 @@ const BusinessGuide2 = () => {
       </nav>
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <section className={styles.screenReaderOnly}>
-        <h1>분양일정 | 평택화양 동문디이스트</h1>
+        <h1>분양일정 | 평택화양 신영지웰</h1>
         <p>
-          평택화양 동문디이스트의 사업 개요 및 개발 계획을 확인하세요. 혁신적인
+          평택화양 신영지웰의 사업 개요 및 개발 계획을 확인하세요. 혁신적인
           단지 설계, 편리한 인프라, 입주자 맞춤형 편의시설을 통해 최적의 주거
           환경을 제공합니다.
         </p>
@@ -152,14 +152,14 @@ const BusinessGuide2 = () => {
         className={`${styles.textBox} ${isTextVisible ? styles.active : ""} `}
       >
         <div>생활의 모든 것을 한걸음에</div>
-        <div>동문건설, 화양신도시의 중심에 서다</div>
+        <div>신영지웰, 화양신도시의 중심에 서다</div>
       </section>
 
       {/* 이미지에 isImageVisible 상태 적용 */}
       <img
         className={`${styles.image4} ${isImageVisible ? styles.visible : ""}`}
         src={page1}
-        alt="평택화양 동문디이스트 분양일정안내-image1"
+        alt="평택화양 신영지웰 분양일정안내-image1"
       />
 
       <Footer />

@@ -66,14 +66,14 @@ const FloorPlan3 = () => {
 
 			<div className={styles.textBox}>
 				<div>평택 브레인시티의 눈부신 가치 위에</div>
-				<div>푸르지오의 새로운 자부심으로 찾아옵니다.</div>
+				<div>지웰건설의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
 			{/* 이미지에 애니메이션 효과 추가 */}
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="평택화양 동문디이스트 107 평면image"
+				alt="평택화양 신영지웰 107 평면image"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

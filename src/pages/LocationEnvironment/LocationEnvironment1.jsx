@@ -72,26 +72,26 @@ const LocationEnvironment1 = () => {
 		<meta name="robots" content="index, follow" />
 
 		{/* SEO 최적화를 위한 메타 태그 */}
-		<title>평택화양 동문디이스트 - 입지환경</title>
+		<title>평택화양 신영지웰 - 입지환경</title>
 		<meta
 		  name="description"
-		  content="평택화양 동문디이스트의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+		  content="평택화양 신영지웰의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 											"
 		/>
 		<meta
 		  name="keywords"
-		  content="평택화양 동문디이스트, 평택화양동문디이스트 모델하우스"
+		  content="평택화양 신영지웰, 평택화양동문디이스트 모델하우스"
 		/>
 		<link rel="canonical" href="https://www.verficktescheisse.com/LocationEnvironment/intro" />
 
 		{/* Open Graph - 소셜 미디어 공유 최적화 */}
 		<meta
 		  property="og:title"
-		  content="평택화양 동문디이스트 - 입지환경"
+		  content="평택화양 신영지웰 - 입지환경"
 		/>
 		<meta
 		  property="og:description"
-		  content="평택화양 동문디이스트의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+		  content="평택화양 신영지웰의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 											"
 		/>
 		<meta
@@ -99,17 +99,17 @@ const LocationEnvironment1 = () => {
 		  content="https://www.verficktescheisse.com/Main1.png"
 		/>
 		<meta property="og:url" content="https://www.verficktescheisse.com/LocationEnvironment/intro" />
-		<meta property="og:site_name" content="평택화양 동문디이스트" />
+		<meta property="og:site_name" content="평택화양 신영지웰" />
 
 		{/* Twitter 카드 설정 */}
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta
 		  name="twitter:title"
-		  content="평택화양 동문디이스트 - 입지환경"
+		  content="평택화양 신영지웰 - 입지환경"
 		/>
 		<meta
 		  name="twitter:description"
-		  content="평택화양 동문디이스트의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+		  content="평택화양 신영지웰의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 											"
 		/>
 		<meta
@@ -124,8 +124,8 @@ const LocationEnvironment1 = () => {
 								{
 									"@context": "https://schema.org",
 									"@type": "WebPage",
-									"name": "평택화양 동문디이스트 - 입지환경",
-									"description": "평택화양 동문디이스트의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+									"name": "평택화양 신영지웰 - 입지환경",
+									"description": "평택화양 신영지웰의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 											
 									",
 									"url": "https://www.verficktescheisse.com/LocationEnvironment/intro"
@@ -141,17 +141,17 @@ const LocationEnvironment1 = () => {
 
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-			<h1 className={styles.screenReaderOnly}>평택화양 동문디이스트 - 입지안내</h1>
-			<p className={styles.screenReaderOnly}>평택화양 동문디이스트의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+			<h1 className={styles.screenReaderOnly}>평택화양 신영지웰 - 입지안내</h1>
+			<p className={styles.screenReaderOnly}>평택화양 신영지웰의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 			</p>
 
 			<div className={styles.textBox}>
 				<div>갈수록 완벽해질 화양신도시</div>
 				<div>살수록 높아질 디이스트</div>
-				<div>도시를 압도할 자부심 평택화양 동문디이스트</div>
+				<div>도시를 압도할 자부심 평택화양 신영지웰</div>
 			</div>
 
-			<img src={page1} className={styles.image2} alt="평택화양 동문디이스트입지환경-image1" />
+			<img src={page1} className={styles.image2} alt="평택화양 신영지웰입지환경-image1" />
 
 			<div className={styles.section2}>
 				{LocationSection.map((value, idx) => (

@@ -58,26 +58,26 @@ const ComplexGuide1 = () => {
 		<meta name="robots" content="index, follow" />
 
 		{/* SEO 최적화를 위한 메타 태그 */}
-		<title>평택화양 동문디이스트 - 호수배치도</title>
+		<title>평택화양 신영지웰 - 호수배치도</title>
 		<meta
 		  name="description"
-		  content="평택화양 동문디이스트의 호수 배치도를 통해 각 세대의 위치와 전망을 확인하세요. 주거 만족도를 높이는 체계적인 배치 설계로 더 나은 라이프스타일을 제안합니다.
+		  content="평택화양 신영지웰의 호수 배치도를 통해 각 세대의 위치와 전망을 확인하세요. 주거 만족도를 높이는 체계적인 배치 설계로 더 나은 라이프스타일을 제안합니다.
 											"
 		/>
 		<meta
 		  name="keywords"
-		  content="평택화양 동문디이스트"
+		  content="평택화양 신영지웰"
 		/>
 		<link rel="canonical" href="https://www.verficktescheisse.com/ComplexGuide/detailintro" />
 
 		{/* Open Graph - 소셜 미디어 공유 최적화 */}
 		<meta
 		  property="og:title"
-		  content="평택화양 동문디이스트 - 호수배치도"
+		  content="평택화양 신영지웰 - 호수배치도"
 		/>
 		<meta
 		  property="og:description"
-		  content="첨단 단지 동문건설의 설계와 다양한 입주 혜택이 돋보이는 동문건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+		  content="첨단 단지 신영지웰의 설계와 다양한 입주 혜택이 돋보이는 신영지웰의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 											"
 		/>
 		<meta
@@ -85,17 +85,17 @@ const ComplexGuide1 = () => {
 		  content="https://www.verficktescheisse.com/Main1.png"
 		/>
 		<meta property="og:url" content="https://www.verficktescheisse.com/ComplexGuide/detailintro" />
-		<meta property="og:site_name" content="평택화양 동문디이스트" />
+		<meta property="og:site_name" content="평택화양 신영지웰" />
 
 		{/* Twitter 카드 설정 */}
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta
 		  name="twitter:title"
-		  content="평택화양 동문디이스트 - 호수배치도"
+		  content="평택화양 신영지웰 - 호수배치도"
 		/>
 		<meta
 		  name="twitter:description"
-		  content="첨단 단지 동문건설의 설계와 다양한 입주 혜택이 돋보이는 동문건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+		  content="첨단 단지 신영지웰의 설계와 다양한 입주 혜택이 돋보이는 신영지웰의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 											"
 		/>
 		<meta
@@ -110,8 +110,8 @@ const ComplexGuide1 = () => {
 								{
 									"@context": "https://schema.org",
 									"@type": "WebPage",
-									"name": "평택화양 동문디이스트 - 호수배치도",
-									"description": "첨단 단지 동문건설의 설계와 다양한 입주 혜택이 돋보이는 동문건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+									"name": "평택화양 신영지웰 - 호수배치도",
+									"description": "첨단 단지 신영지웰의 설계와 다양한 입주 혜택이 돋보이는 신영지웰의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 											
 									",
 									"url": "https://www.verficktescheisse.com/ComplexGuide/detailintro"
@@ -124,13 +124,13 @@ const ComplexGuide1 = () => {
 			<FixIcon />
 			<Bener title="단지안내" />
 			<MenuBar contents={menuContents} />
-			<h1 className={styles.screenReaderOnly}>평택화양 동문디이스트 - 호수배치도</h1>
+			<h1 className={styles.screenReaderOnly}>평택화양 신영지웰 - 호수배치도</h1>
 			<p className={styles.screenReaderOnly}>
 				호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이 원하는 호수를 찾고 세부적인 배치 정보를 통해 자신의 집을 상상할 수 있게 돕습니다. 각 호수의 특징과 장점을 살펴보며 선택의 폭을 넓힐 수 있습니다.
 			</p>
 
 			<div className={styles.textBox}>
-				<div>평택화양 동문디이스트가 눈부신 가치 위에</div>
+				<div>평택화양 신영지웰가 눈부신 가치 위에</div>
 				<div>새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
@@ -138,7 +138,7 @@ const ComplexGuide1 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="평택화양 동문디이스트 호수배치도-image1"
+				alt="평택화양 신영지웰 호수배치도-image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

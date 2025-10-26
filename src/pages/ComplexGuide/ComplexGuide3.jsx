@@ -59,26 +59,26 @@ const ComplexGuide3 = () => {
 		<meta name="robots" content="index, follow" />
 
 		{/* SEO 최적화를 위한 메타 태그 */}
-		<title>평택화양 동문디이스트 - 커뮤니티</title>
+		<title>평택화양 신영지웰 - 커뮤니티</title>
 		<meta
 		  name="description"
-		  content="평택화양 동문디이스트의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
+		  content="평택화양 신영지웰의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
 											"
 		/>
 		<meta
 		  name="keywords"
-		  content="평택화양 동문디이스트"
+		  content="평택화양 신영지웰"
 		/>
 		<link rel="canonical" href="https://www.verficktescheisse.com/ComplexGuide/community" />
 
 		{/* Open Graph - 소셜 미디어 공유 최적화 */}
 		<meta
 		  property="og:title"
-		  content="평택화양 동문디이스트 - 커뮤니티"
+		  content="평택화양 신영지웰 - 커뮤니티"
 		/>
 		<meta
 		  property="og:description"
-		  content="첨단 단지 푸르지오의 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+		  content="첨단 단지 지웰건설의 설계와 다양한 입주 혜택이 돋보이는 지웰건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 											"
 		/>
 		<meta
@@ -86,17 +86,17 @@ const ComplexGuide3 = () => {
 		  content="https://www.verficktescheisse.com/Main1.png"
 		/>
 		<meta property="og:url" content="https://www.verficktescheisse.com/ComplexGuide/community" />
-		<meta property="og:site_name" content="평택화양 동문디이스트" />
+		<meta property="og:site_name" content="평택화양 신영지웰" />
 
 		{/* Twitter 카드 설정 */}
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta
 		  name="twitter:title"
-		  content="평택화양 동문디이스트 - 커뮤니티"
+		  content="평택화양 신영지웰 - 커뮤니티"
 		/>
 		<meta
 		  name="twitter:description"
-		  content="첨단 단지 푸르지오의 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+		  content="첨단 단지 지웰건설의 설계와 다양한 입주 혜택이 돋보이는 지웰건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 											"
 		/>
 		<meta
@@ -111,8 +111,8 @@ const ComplexGuide3 = () => {
 								{
 									"@context": "https://schema.org",
 									"@type": "WebPage",
-									"name": "평택화양 동문디이스트 - 커뮤니티",
-									"description": "첨단 단지 푸르지오의 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+									"name": "평택화양 신영지웰 - 커뮤니티",
+									"description": "첨단 단지 지웰건설의 설계와 다양한 입주 혜택이 돋보이는 지웰건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 											
 									",
 									"url": "https://www.verficktescheisse.com/ComplexGuide/community"
@@ -127,13 +127,13 @@ const ComplexGuide3 = () => {
 			<Bener title="단지안내" />
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-            <h1 className={styles.screenReaderOnly}>평택화양 동문디이스트  - 커뮤니티</h1>
-			<p className={styles.screenReaderOnly}>평택화양 동문디이스트의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다.
+            <h1 className={styles.screenReaderOnly}>평택화양 신영지웰  - 커뮤니티</h1>
+			<p className={styles.screenReaderOnly}>평택화양 신영지웰의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다.
 			</p>
 
 
 			<div className={styles.textBox}>
-				<div>평택화양 동문디이스트가 눈부신 가치 위에</div>
+				<div>평택화양 신영지웰가 눈부신 가치 위에</div>
 				<div>새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
@@ -141,7 +141,7 @@ const ComplexGuide3 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="브레인시티푸르지오 커뮤니티 안내 -image1"
+				alt="브레인시티지웰건설 커뮤니티 안내 -image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

@@ -72,23 +72,23 @@ const BusinessGuide2 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>평택화양 동문디이스트 - 계약서류안내</title>
+        <title>평택화양 신영지웰 - 계약서류안내</title>
         <meta
           name="description"
-          content="첨단 단지 동문건설의 설계와 다양한 입주 혜택이 돋보이는 동문건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+          content="첨단 단지 신영지웰의 설계와 다양한 입주 혜택이 돋보이는 신영지웰의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 						"
         />
         <meta
           name="keywords"
-          content="평택화양 동문디이스트"
+          content="평택화양 신영지웰"
         />
         <link rel="canonical" href="https://www.verficktescheisse.com/BusinessGuide/documents" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
-        <meta property="og:title" content="평택화양 동문디이스트 - 계약서류안내" />
+        <meta property="og:title" content="평택화양 신영지웰 - 계약서류안내" />
         <meta
           property="og:description"
-          content="첨단 단지 동문건설의 설계와 다양한 입주 혜택이 돋보이는 동문건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+          content="첨단 단지 신영지웰의 설계와 다양한 입주 혜택이 돋보이는 신영지웰의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 						"
         />
         <meta
@@ -96,14 +96,14 @@ const BusinessGuide2 = () => {
           content="https://www.verficktescheisse.com/Main1.png"
         />
         <meta property="og:url" content="https://www.verficktescheisse.com/BusinessGuide/documents" />
-        <meta property="og:site_name" content="평택화양 동문디이스트" />
+        <meta property="og:site_name" content="평택화양 신영지웰" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="평택화양 동문디이스트 - 계약서류안내" />
+        <meta name="twitter:title" content="평택화양 신영지웰 - 계약서류안내" />
         <meta
           name="twitter:description"
-          content="첨단 단지 동문건설의 설계와 다양한 입주 혜택이 돋보이는 동문건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+          content="첨단 단지 신영지웰의 설계와 다양한 입주 혜택이 돋보이는 신영지웰의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 						"
         />
         <meta
@@ -118,8 +118,8 @@ const BusinessGuide2 = () => {
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
-				"name": "평택화양 동문디이스트 - 계약서류안내",
-				"description": "첨단 단지 동문건설의 설계와 다양한 입주 혜택이 돋보이는 동문건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+				"name": "평택화양 신영지웰 - 계약서류안내",
+				"description": "첨단 단지 신영지웰의 설계와 다양한 입주 혜택이 돋보이는 신영지웰의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 						
 				",
 				"url": "https://www.verficktescheisse.com/BusinessGuide/documents"
@@ -134,7 +134,7 @@ const BusinessGuide2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        평택화양 동문디이스트 - 계약서류안내
+        평택화양 신영지웰 - 계약서류안내
       </h1>
       <p className={styles.screenReaderOnly}>
         계약서류안내 페이지지에서는 분양 당첨 후 필요한 서류들에 대해
@@ -145,14 +145,14 @@ const BusinessGuide2 = () => {
 
       <div className={styles.textBox}>
         <div>평택 화양신도시의 눈부신 가치 위에</div>
-        <div>평택화양 동문디이스트의 새로운 자부심으로 찾아옵니다.</div>
+        <div>평택화양 신영지웰의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
       {/* 이미지에 isImageVisible 상태 적용 */}
       <img
         className={`${styles.image4} ${isImageVisible ? styles.visible : ""}`}
         src={page1}
-        alt="평택화양 동문디이스트 계약서류안내-image1"
+        alt="평택화양 신영지웰 계약서류안내-image1"
       />
 
       <Footer />

@@ -55,26 +55,26 @@ const LocationEnvironment1 = () => {
 		<meta name="robots" content="index, follow" />
 
 		{/* SEO 최적화를 위한 메타 태그 */}
-		<title>평택화양 동문디이스트 - 프리미엄</title>
+		<title>평택화양 신영지웰 - 프리미엄</title>
 		<meta
 		  name="description"
-		  content="평택화양 동문디이스트만의 차별화된 프리미엄을 만나보세요. 고급스러운 디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해 푸르지오만의 독보적인 가치를 제공합니다.
+		  content="평택화양 신영지웰만의 차별화된 프리미엄을 만나보세요. 고급스러운 디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해 지웰건설만의 독보적인 가치를 제공합니다.
 											"
 		/>
 		<meta
 		  name="keywords"
-		  content="평택화양 동문디이스트,평택화양 동문디이스트 모델하우스"
+		  content="평택화양 신영지웰,평택화양 신영지웰 모델하우스"
 		/>
 		<link rel="canonical" href="https://www.verficktescheisse.com/LocationEnvironment/primium" />
 
 		{/* Open Graph - 소셜 미디어 공유 최적화 */}
 		<meta
 		  property="og:title"
-		  content="평택화양 동문디이스트 - 프리미엄"
+		  content="평택화양 신영지웰 - 프리미엄"
 		/>
 		<meta
 		  property="og:description"
-		  content="평택화양 동문디이스트만의 차별화된 프리미엄을 만나보세요. 고급스러운 디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해 푸르지오만의 독보적인 가치를 제공합니다.
+		  content="평택화양 신영지웰만의 차별화된 프리미엄을 만나보세요. 고급스러운 디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해 지웰건설만의 독보적인 가치를 제공합니다.
 											"
 		/>
 		<meta
@@ -82,17 +82,17 @@ const LocationEnvironment1 = () => {
 		  content="https://www.verficktescheisse.com/Main1.png"
 		/>
 		<meta property="og:url" content="https://www.verficktescheisse.com/LocationEnvironment/primium" />
-		<meta property="og:site_name" content="평택화양 동문디이스트" />
+		<meta property="og:site_name" content="평택화양 신영지웰" />
 
 		{/* Twitter 카드 설정 */}
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta
 		  name="twitter:title"
-		  content="평택화양 동문디이스트 - 프리미엄"
+		  content="평택화양 신영지웰 - 프리미엄"
 		/>
 		<meta
 		  name="twitter:description"
-		  content="평택화양 동문디이스트만의 차별화된 프리미엄을 만나보세요. 고급스러운 디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해 푸르지오만의 독보적인 가치를 제공합니다.
+		  content="평택화양 신영지웰만의 차별화된 프리미엄을 만나보세요. 고급스러운 디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해 지웰건설만의 독보적인 가치를 제공합니다.
 											"
 		/>
 		<meta
@@ -107,8 +107,8 @@ const LocationEnvironment1 = () => {
 								{
 									"@context": "https://schema.org",
 									"@type": "WebPage",
-									"name": "평택화양 동문디이스트 - 프리미엄",
-									"description": "평택화양 동문디이스트만의 차별화된 프리미엄을 만나보세요. 고급스러운 디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해 푸르지오만의 독보적인 가치를 제공합니다.
+									"name": "평택화양 신영지웰 - 프리미엄",
+									"description": "평택화양 신영지웰만의 차별화된 프리미엄을 만나보세요. 고급스러운 디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해 지웰건설만의 독보적인 가치를 제공합니다.
 											
 									",
 									"url": "https://www.verficktescheisse.com/LocationEnvironment/primium"
@@ -125,8 +125,8 @@ const LocationEnvironment1 = () => {
 
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-			<h1 className={styles.screenReaderOnly}>평택화양 동문디이스트 - 프리미엄</h1>
-			<p className={styles.screenReaderOnly}>평택화양 동문디이스트만의 차별화된 프리미엄을 만나보세요. 고급스러운 디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해 푸르지오만의 독보적인 가치를 제공합니다.
+			<h1 className={styles.screenReaderOnly}>평택화양 신영지웰 - 프리미엄</h1>
+			<p className={styles.screenReaderOnly}>평택화양 신영지웰만의 차별화된 프리미엄을 만나보세요. 고급스러운 디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해 지웰건설만의 독보적인 가치를 제공합니다.
 			</p>
 
 			<div className={styles.textBox}>
@@ -134,7 +134,7 @@ const LocationEnvironment1 = () => {
 				<div>평택 화양 동문디이스트의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
-			<img src={page1} className={styles.image3} alt="평택화양 동문디이스트 프리미엄-image1" />
+			<img src={page1} className={styles.image3} alt="평택화양 신영지웰 프리미엄-image1" />
 
 			<Footer />
 		</div>

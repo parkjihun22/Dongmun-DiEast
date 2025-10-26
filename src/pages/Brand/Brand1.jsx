@@ -59,25 +59,25 @@ const Brand1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>평택화양 동문디이스트 - 브랜드소개</title>
+        <title>평택화양 신영지웰 - 브랜드소개</title>
         <meta
           name="description"
-          content="푸르지오는 미래지향적인 주거 문화를 선도하며,평택화양 동문디이스트에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다."
+          content="지웰건설는 미래지향적인 주거 문화를 선도하며,평택화양 신영지웰에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다."
         />
         <meta
           name="keywords"
-          content="평택화양 동문디이스트 모델하우스, 평택화양 동문디이스트"
+          content="평택화양 신영지웰 모델하우스, 평택화양 신영지웰"
         />
         <link rel="canonical" href="https://www.verficktescheisse.com/Brand/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="평택화양 동문디이스트 - 브랜드소개"
+          content="평택화양 신영지웰 - 브랜드소개"
         />
         <meta
           property="og:description"
-          content="푸르지오는 미래지향적인 주거 문화를 선도하며,평택화양 동문디이스트에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다."
+          content="지웰건설는 미래지향적인 주거 문화를 선도하며,평택화양 신영지웰에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다."
         />
         <meta
           property="og:image"
@@ -87,17 +87,17 @@ const Brand1 = () => {
           property="og:url"
           content="https://www.verficktescheisse.com/Brand/intro"
         />
-        <meta property="og:site_name" content="평택화양 동문디이스트" />
+        <meta property="og:site_name" content="평택화양 신영지웰" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="평택화양 동문디이스트 - 브랜드소개"
+          content="평택화양 신영지웰 - 브랜드소개"
         />
         <meta
           name="twitter:description"
-          content="푸르지오는 미래지향적인 주거 문화를 선도하며,평택화양 동문디이스트에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다."
+          content="지웰건설는 미래지향적인 주거 문화를 선도하며,평택화양 신영지웰에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다."
         />
         <meta
           name="twitter:image"
@@ -114,8 +114,8 @@ const Brand1 = () => {
             {
                 "@context": "https://schema.org",
                 "@type": "WebPage",
-                "name": "평택화양 동문디이스트 - 브랜드소개",
-                "description": "푸르지오는 미래지향적인 주거 문화를 선도하며,평택화양 동문디이스트에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다.
+                "name": "평택화양 신영지웰 - 브랜드소개",
+                "description": "지웰건설는 미래지향적인 주거 문화를 선도하며,평택화양 신영지웰에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다.
                     ",
                 "url": "https://www.verficktescheisse.com/Brand/intro"
             }
@@ -127,11 +127,11 @@ const Brand1 = () => {
                 <Header isChanged={isScroll} />
             </header>
             <FixIcon />
-            <Bener title="평택화양 동문디이스트" />
+            <Bener title="평택화양 신영지웰" />
             <MenuBar contents={menuContents} />
 
             <nav className={styles.screenReaderOnly}>
-                <h2>평택화양 동문디이스트 브랜드소개</h2>
+                <h2>평택화양 신영지웰 브랜드소개</h2>
                 <ul>
                     {menuContents.map((menu, index) => (
                         <li key={index}><Link to={menu.url}>{menu.title}</Link></li>
@@ -140,8 +140,8 @@ const Brand1 = () => {
             </nav>
 
             <section className={styles.screenReaderOnly}>
-                <h1>평택화양 동문디이스트 브랜드소개</h1>
-                <p>동문건설은 신뢰와 품질을 최우선으로 여기는 브랜드입니다.</p>
+                <h1>평택화양 신영지웰 브랜드소개</h1>
+                <p>신영지웰은 신뢰와 품질을 최우선으로 여기는 브랜드입니다.</p>
             </section>
 
             <section className={`${styles.textBox} ${isTextVisible ? styles.active : ''} `}>
@@ -153,7 +153,7 @@ const Brand1 = () => {
                 className={`${styles.image} ${isImageVisible ? styles.visible : ''}`}
                 src={page1}
                 srcSet={`${page1} 1x, ${page1.replace('.jpg', '@2x.jpg')} 2x, ${page1.replace('.jpg', '@3x.jpg')} 3x`}
-                alt="평택화양 동문디이스트 브랜드 이미지"
+                alt="평택화양 신영지웰 브랜드 이미지"
                 loading="lazy"
                 width="800"
                 height="600"
